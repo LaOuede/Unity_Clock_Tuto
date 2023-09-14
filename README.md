@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png" />
+  <img width="200" alt="Image" src="https://github.com/LaOuede/Unity_Clock_Tuto/assets/114024436/dee98757-e153-41db-928c-505b9ee45fc3">
 </p>
 
-<h1 align=center>MiniRT</h1>
+<h1 align=center>Clock</h1>
 
 <p align=center>
 Work in progress...
@@ -14,9 +14,8 @@ The <b>MiniRT</b> project is a mini ray tracing engine. It's an introduction to 
 
 </div>
 
-
-<div align="center">
+https://github.com/LaOuede/Unity_Clock_Tuto/assets/114024436/dd575036-cdff-4062-b19d-da6fd3eb2d4c
   
-Go to [42 Québec](https://42quebec.com/) to discover the course ! 👈
+Go to [Catlike Coding](https://catlikecoding.com/unity/tutorials/) to discover the tutorials ! 👈
 </div>
 
